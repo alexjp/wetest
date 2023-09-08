@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wetest.mine.nu.ico",
     "slug": "alternative",
     "status": "up",
-    "uptime": "2.85%",
-    "uptimeDay": "2.85%",
-    "uptimeWeek": "2.85%",
-    "uptimeMonth": "2.85%",
-    "uptimeYear": "2.85%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 636,
     "timeDay": 636,
     "timeWeek": 636,
     "timeMonth": 636,
     "timeYear": 636,
-    "dailyMinutesDown": {
-      "2023-09-08": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
