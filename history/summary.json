@@ -4,9 +4,9 @@
     "url": "https://weticlient.ddns.net",
     "icon": "https://icons.duckduckgo.com/ip3/weticlient.ddns.net.ico",
     "slug": "weticlient",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,25 +15,28 @@
     "timeWeek": 782,
     "timeMonth": 730,
     "timeYear": 730,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-25": 0
+    }
   },
   {
     "name": "Alternative",
     "url": "http://wetest.mine.nu",
     "icon": "https://icons.duckduckgo.com/ip3/wetest.mine.nu.ico",
     "slug": "alternative",
-    "status": "up",
-    "uptime": "92.36%",
+    "status": "down",
+    "uptime": "92.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "81.45%",
-    "uptimeMonth": "92.36%",
-    "uptimeYear": "92.36%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "92.39%",
     "time": 711,
     "timeDay": 614,
     "timeWeek": 744,
     "timeMonth": 711,
     "timeYear": 711,
     "dailyMinutesDown": {
+      "2023-09-25": 0,
       "2023-09-20": 1317,
       "2023-09-19": 553
     }
