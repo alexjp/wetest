@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.17%",
     "time": 681,
-    "timeDay": 575,
-    "timeWeek": 649,
-    "timeMonth": 634,
+    "timeDay": 522,
+    "timeWeek": 648,
+    "timeMonth": 630,
     "timeYear": 690,
     "dailyMinutesDown": {
       "2025-01-19": 1302,
@@ -44,8 +44,7 @@
       "2024-04-20": 522,
       "2024-04-19": 454,
       "2024-03-11": 51,
-      "2024-03-10": 71,
-      "2024-03-05": 54
+      "2024-03-10": 71
     }
   },
   {
@@ -54,15 +53,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wetest.mine.nu.ico",
     "slug": "alternative",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 680,
-    "timeDay": 453,
-    "timeWeek": 586,
-    "timeMonth": 615,
+    "time": 679,
+    "timeDay": 398,
+    "timeWeek": 587,
+    "timeMonth": 611,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2025-01-08": 31,
@@ -82,8 +81,7 @@
       "2024-04-20": 518,
       "2024-04-19": 453,
       "2024-03-11": 51,
-      "2024-03-10": 65,
-      "2024-03-05": 53
+      "2024-03-10": 65
     }
   }
 ]
