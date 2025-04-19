@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/weticlient.ddns.net.ico",
     "slug": "weticlient",
     "status": "up",
-    "uptime": "98.13%",
+    "uptime": "98.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "97.18%",
     "time": 683,
-    "timeDay": 748,
-    "timeWeek": 705,
-    "timeMonth": 618,
+    "timeDay": 821,
+    "timeWeek": 746,
+    "timeMonth": 627,
     "timeYear": 690,
     "dailyMinutesDown": {
       "2025-04-13": 82,
@@ -43,8 +43,7 @@
       "2024-05-24": 28,
       "2024-05-08": 95,
       "2024-04-22": 25,
-      "2024-04-20": 522,
-      "2024-04-19": 454
+      "2024-04-20": 522
     }
   },
   {
@@ -58,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.45%",
-    "time": 676,
-    "timeDay": 952,
-    "timeWeek": 731,
-    "timeMonth": 622,
-    "timeYear": 677,
+    "time": 677,
+    "timeDay": 1103,
+    "timeWeek": 822,
+    "timeMonth": 638,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2025-03-20": 28,
       "2025-01-08": 31,
@@ -79,8 +78,7 @@
       "2024-05-24": 28,
       "2024-05-08": 95,
       "2024-04-22": 24,
-      "2024-04-20": 518,
-      "2024-04-19": 453
+      "2024-04-20": 518
     }
   }
 ]
