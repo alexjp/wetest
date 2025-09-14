@@ -1,7 +1,7 @@
 # Change these first
 owner: alexjp # Your GitHub organization or username, where this repository lives
 repo: wetest # The name of this repository
-delay: 180000 # 30 minutes
+delay: 1800000 # 30 minutes
 
 sites:
   - name: Weticlient
