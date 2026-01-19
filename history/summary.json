@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/weticlient.ddns.net.ico",
     "slug": "weticlient",
     "status": "up",
-    "uptime": "95.11%",
+    "uptime": "95.12%",
     "uptimeDay": "90.93%",
-    "uptimeWeek": "54.80%",
-    "uptimeMonth": "10.70%",
-    "uptimeYear": "91.13%",
+    "uptimeWeek": "57.52%",
+    "uptimeMonth": "11.33%",
+    "uptimeYear": "91.18%",
     "time": 624,
-    "timeDay": 577,
-    "timeWeek": 585,
-    "timeMonth": 605,
+    "timeDay": 596,
+    "timeWeek": 560,
+    "timeMonth": 607,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2026-01-18": 131,
@@ -54,8 +54,7 @@
       "2025-04-29": 521,
       "2025-04-28": 790,
       "2025-04-13": 82,
-      "2025-03-20": 86,
-      "2025-01-19": 1302
+      "2025-03-20": 86
     }
   },
   {
@@ -70,9 +69,9 @@
     "uptimeMonth": "99.71%",
     "uptimeYear": "99.69%",
     "time": 620,
-    "timeDay": 455,
-    "timeWeek": 567,
-    "timeMonth": 626,
+    "timeDay": 434,
+    "timeWeek": 492,
+    "timeMonth": 625,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2026-01-18": 125,
